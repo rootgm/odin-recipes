@@ -1,3 +1,18 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+h1 {
+    background-color: blue;
+    text-align: center;
+}
+
+a {
+    font-weight: bold;
+}
+
+ul,
+ol {
+    font-size: large;
+    font-weight: 400;
+}
